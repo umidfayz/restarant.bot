@@ -1,5 +1,4 @@
 # restarant.bot
-# kfc-bot
 -Bu botni ishlatish uchun
 
 -Telebot
